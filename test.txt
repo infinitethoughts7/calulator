@@ -5,4 +5,4 @@
 # git status 
 # create the required files 
 # git status 
-# add the untracked files using git add file_name 
+
