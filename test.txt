@@ -5,4 +5,8 @@
 # git status 
 # create the required files 
 # git status 
-
+# git add .
+# git commit -m "initial commit"
+# git push -u origin main ( branch) 
+# git remote -v ( to check the remote link ) 
+# 
