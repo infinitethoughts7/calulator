@@ -1,0 +1,8 @@
+# folder creation 
+# check if git exist or not ls-a
+# if not exist , initilaize it by git init 
+# open IDE ( Integrated Development Env) 
+# git status 
+# create the required files 
+# git status 
+# add the untracked files using git add file_name 
